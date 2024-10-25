@@ -3,3 +3,9 @@
 
 A somehow only vector file format to text file converter
 Any code suggestions are welcome!
+
+## How to run
+1. Clone this repo
+2. cd into it
+3. run ```go run```
+4. profit
