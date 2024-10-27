@@ -7,5 +7,6 @@ Any code suggestions are welcome!
 ## How to run
 1. Clone this repo
 2. cd into it
-3. run ```go run```
-4. profit
+3. run ```go mod tidy```
+4. run ```go run```
+5. profit
